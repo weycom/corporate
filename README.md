@@ -1,2 +1,2 @@
-# corporate
-Weyland Communications
+# weyland
+weyland corporation
